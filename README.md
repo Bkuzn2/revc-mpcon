@@ -1,1 +1,1 @@
-# vc-connect
+# vcmp-connect
