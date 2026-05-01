@@ -1,5 +1,5 @@
 # REVC-MPCON
-> He
+> Test version
 
 # build:
 1. [Download a NDK 28](https://developer.android.com/ndk/downloads)
@@ -15,5 +15,6 @@
 </p>
 
 # Authors
-> - [**Anton-Arab**](https://github.com/Anton-Arab)
-> - [**Egor Kuzn**](https://github.com/bkuzn2)
+> - [**Anton-Arab**](https://github.com/Anton-Arab) - network
+> - [**Egor Kuzn**](https://github.com/bkuzn2) - network
+> - [**weikton**](https://github.com/isweikton) - author port
