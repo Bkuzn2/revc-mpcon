@@ -15,6 +15,5 @@
 </p>
 
 # Authors
-> - [**Anton-Arab**](https://github.com/Anton-Arab) - network
-> - [**Egor Kuzn**](https://github.com/bkuzn2) - network
-> - [**weikton**](https://github.com/isweikton) - author port
+> - [**Anton-Arab**](https://github.com/Anton-Arab)
+> - [**Egor Kuzn**](https://github.com/bkuzn2) 
